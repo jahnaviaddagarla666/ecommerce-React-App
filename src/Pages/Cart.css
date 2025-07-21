@@ -1,0 +1,140 @@
+.cart-page {
+    margin: 2rem auto;
+    padding: 2rem;
+    max-width: 100%;
+    background: #f2f0f0;
+    border-radius: 12px;
+    box-shadow: 0 10px 16px rgba(54, 14, 14, 0.1);
+}
+
+.cart-page h2 {
+    text-align: center;
+    font-size: 2.2rem;
+    color: #333;
+    margin-bottom: 1.5rem;
+}
+
+.cart-page p {
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 20px;
+    background-color: #e3dcdc;
+
+}
+
+.cart-items {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.cart-item {
+    display: flex;
+    align-items: center;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.07);
+    padding: 1rem;
+    transition: transform 0.2s ease;
+}
+
+.cart-item:hover {
+    transform: scale(1.01);
+}
+
+.cart-item img {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.details {
+    flex-grow: 1;
+}
+
+.details h4 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+    color: #222;
+}
+
+.details p {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+.details button {
+    padding: 8px 16px;
+    background: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.details button:hover {
+    background: #d93636;
+}
+
+.cart-summary {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background: #fff;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.cart-summary h3 {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 1rem;
+}
+
+.cart-summary h4 {
+    font-size: 1.2rem;
+    color: #555;
+    margin-bottom: 1rem;
+}
+
+.cart-summary button {
+    margin: 0.5rem;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+
+.cart-summary .upi {
+    background-color: #6a1b9a;
+    color: white;
+}
+
+.cart-summary .upi:hover {
+    background-color: #4a0072;
+}
+
+.cart-summary .card {
+    background-color: #2196f3;
+    color: white;
+}
+
+.cart-summary .card:hover {
+    background-color: #0b7dda;
+}
+
+.cart-summary .cod {
+    background-color: #43a047;
+    color: white;
+}
+
+.cart-summary .cod:hover {
+    background-color: #2e7d32;
+}

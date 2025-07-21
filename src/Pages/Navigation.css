@@ -1,0 +1,47 @@
+/* src/components/Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(to right, #000000e3, #332e70);
+    padding: 1rem 2rem;
+    color: white;
+    animation: slideIn 1s ease;
+    border-radius: 20px;
+    ;
+}
+
+.logo {
+    font-size: 4rem;
+    font-weight: bold;
+    color: #dadce4;
+    text-shadow: 1px 2px 3px #ededed;
+}
+
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    gap: 1.5rem;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: #feca57;
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateY(-100%);
+    }
+
+    to {
+        transform: translateY(0);
+    }
+}

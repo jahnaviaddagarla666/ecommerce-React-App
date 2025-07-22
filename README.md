@@ -6,14 +6,9 @@
 
 ## 📌 Table of Contents
 
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Folder Structure](#folder-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
+
+https://github.com/user-attachments/assets/a3866be7-18bd-4234-9522-5b7d0181a798
+
 
 ---
 

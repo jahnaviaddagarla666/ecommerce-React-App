@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Table of Contents
+## 📌 Project Demo
 
 
 https://github.com/user-attachments/assets/a3866be7-18bd-4234-9522-5b7d0181a798

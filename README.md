@@ -18,11 +18,8 @@ https://github.com/user-attachments/assets/a3866be7-18bd-4234-9522-5b7d0181a798
 - 🛒 **Shopping Cart**: Add, update, and remove products.
 - 📦 **Product Listings**: Display of items with image, name, price, and CTA.
 - 💡 **Responsive Design**: Works seamlessly on mobile, tablet, and desktop.
-- 🎨 **Animations**:
-  - Hero section with animated headings and background shadows.
-  - Logo animation in continuous circular motion (horizontal).
 - 📬 **Contact Page**: Interactive form with animations.
-
+  
 ---
 
 ## 🛠️ Tech Stack
